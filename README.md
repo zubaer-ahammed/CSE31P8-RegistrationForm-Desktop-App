@@ -5,6 +5,7 @@ This is a C# Windows Form Desktop app created with Visual Studio.
 ### How it works
 1. The student enters details in th Registration Form [Form1]
 2. The App shows Student Details in the Student Details Form [Form2]
+3. The Registration Form can be cleared/reset using the "RESET" button.
 
 
 ## Registration Form
