@@ -13,4 +13,5 @@ This is a C# Windows Form Desktop app created with Visual Studio.
 
 
 ## Student Details
-<img width="501" alt="student_details" src="https://github.com/user-attachments/assets/31936e81-f1f3-4d48-bee4-5d528f3a2e64" />
+<img width="510" alt="student_details" src="https://github.com/user-attachments/assets/4c2ed9d3-8888-46a5-beae-7df950e57230" />
+
