@@ -128,7 +128,7 @@
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(964, 867);
+            ClientSize = new Size(964, 657);
             Controls.Add(label7);
             Controls.Add(pictureBoxPhoto);
             Controls.Add(labelGender);
