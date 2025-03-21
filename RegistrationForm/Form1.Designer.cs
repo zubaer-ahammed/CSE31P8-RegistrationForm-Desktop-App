@@ -48,6 +48,7 @@
             resetFormButton = new Button();
             submitFormButton = new Button();
             pictureBoxPreview = new PictureBox();
+            label7 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBoxPreview).BeginInit();
             SuspendLayout();
             // 
@@ -229,11 +230,22 @@
             pictureBoxPreview.TabIndex = 19;
             pictureBoxPreview.TabStop = false;
             // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Location = new Point(339, 776);
+            label7.Name = "label7";
+            label7.Size = new Size(358, 32);
+            label7.TabIndex = 20;
+            label7.Text = "© 2025 - Md. Zubaer Ahammed";
+            label7.Click += label7_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(974, 929);
+            Controls.Add(label7);
             Controls.Add(pictureBoxPreview);
             Controls.Add(submitFormButton);
             Controls.Add(resetFormButton);
@@ -254,7 +266,7 @@
             Controls.Add(nameLabel);
             Controls.Add(formLabel);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Registration Form";
             ((System.ComponentModel.ISupportInitialize)pictureBoxPreview).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -282,5 +294,6 @@
         private Button resetFormButton;
         private Button submitFormButton;
         private PictureBox pictureBoxPreview;
+        private Label label7;
     }
 }

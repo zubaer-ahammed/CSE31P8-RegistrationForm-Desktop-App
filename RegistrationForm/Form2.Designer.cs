@@ -37,6 +37,7 @@
             labelGender = new Label();
             pictureBoxPhoto = new PictureBox();
             label7 = new Label();
+            label2 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBoxPhoto).BeginInit();
             SuspendLayout();
             // 
@@ -124,11 +125,21 @@
             label7.Text = "Photo";
             label7.Click += label7_Click;
             // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(307, 582);
+            label2.Name = "label2";
+            label2.Size = new Size(358, 32);
+            label2.TabIndex = 21;
+            label2.Text = "© 2025 - Md. Zubaer Ahammed";
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(964, 657);
+            Controls.Add(label2);
             Controls.Add(label7);
             Controls.Add(pictureBoxPhoto);
             Controls.Add(labelGender);
@@ -139,7 +150,7 @@
             Controls.Add(labelName);
             Controls.Add(label1);
             Name = "Form2";
-            Text = "Form2";
+            Text = "Student Details";
             ((System.ComponentModel.ISupportInitialize)pictureBoxPhoto).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -156,5 +167,6 @@
         private Label labelGender;
         private PictureBox pictureBoxPhoto;
         private Label label7;
+        private Label label2;
     }
 }

@@ -114,5 +114,15 @@ namespace RegistrationForm
             pictureBoxPreview.Image = null;
             imagePath = "";
         }
+
+        private void textBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
