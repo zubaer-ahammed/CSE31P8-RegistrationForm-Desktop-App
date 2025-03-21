@@ -9,9 +9,10 @@ This is a C# Windows Form Desktop app created with Visual Studio.
 
 
 ## Registration Form
-<img width="509" alt="registration_form" src="https://github.com/user-attachments/assets/92fcf000-3e1c-4e50-a375-67b43b41d72e" />
+<img width="512" alt="Registration_Form_OOP" src="https://github.com/user-attachments/assets/c6faeab5-cb68-4eca-94fb-94e6eac40749" />
+
 
 
 ## Student Details
-<img width="510" alt="student_details" src="https://github.com/user-attachments/assets/4c2ed9d3-8888-46a5-beae-7df950e57230" />
+<img width="493" alt="Student_Details_OOP" src="https://github.com/user-attachments/assets/93788c2c-850b-4d60-b4bf-a04bfeecb66d" />
 
